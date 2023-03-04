@@ -14,6 +14,7 @@ class _ContactPageState extends State<ContactPage> {
     Contact(name: 'Bambang', phone: '0812727272'),
     Contact(name: 'Andi', phone: '08197286950'),
     Contact(name: 'Inda', phone: '085264732890'),
+    Contact(name: 'Joko', phone: '081975647382'),
   ];
 
   @override
